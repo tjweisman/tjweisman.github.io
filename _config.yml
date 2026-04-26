@@ -7,13 +7,13 @@ navbar_links:
   - name: Home
     url: /
   - name: Research
-    url: /research
+    url: /research/
   - name: Teaching
-    url: /teaching
+    url: /teaching/
   - name: CV
-    url: /CV
+    url: /CV/
   - name: Etc.
-    url: /etc
+    url: /etc/
 
 # Build settings
 markdown: kramdown
