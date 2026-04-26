@@ -1,0 +1,93 @@
+#controls-box {
+	width:100%;
+	background-color: white;
+}
+
+#controls {
+	display: flex;
+	justify-content: center;
+	margin: 5px;
+}
+
+#controls-box form {
+	text-align: center;
+}
+
+#controls a {
+	background-color: lightblue;
+	font-size: 16pt;
+	text-decoration: None;
+	color: black;
+	padding: 10px;
+	margin: 4px;
+}
+
+.day-label {
+	margin: 5px;
+}
+
+.day-label a {
+	text-decoration: None;
+	font-size: 14pt;
+	color: gray;
+}
+
+.hidden {
+	display:none;
+}
+
+.questionblock {
+	background-color: #e6f2ff;
+	padding:5px;
+	margin: 5px;
+}
+
+.questionlabel  {
+	text-align: center;
+	margin: 4px;
+}
+
+.questionlabel a, .questionlabel span{
+	text-decoration: underline;
+	color: black;
+	text-align: center;
+	font-size: 12pt;
+}
+.answerblock {
+	margin-top:5px;
+	text-align: center;
+}
+.answer {
+	font-weight: bold;
+}
+.missedpct {
+	text-decoration: underline;
+}
+
+.qblock-label {
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px;
+}
+
+#correct-box {
+	text-align: center;
+	visibility: hidden;
+	color: green;
+}
+
+#scorebox {
+	text-align: center;
+	margin: 5px;
+}
+
+.answered {
+	border: 2px dashed gray;
+	padding: 4px;
+}
+
+.awarded {
+	margin-top: 10px;
+	font-weight: bold;
+}

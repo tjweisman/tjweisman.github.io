@@ -1,0 +1,13 @@
+<div class="navbar">
+  <ul>
+    {% assign current = page.nav_url | default: page.url %}
+    {% for link in site.navbar_links %}
+      {% if current == link.url %}
+        <li><a class="active" href="{{ link.url | prepend: site.baseurl }}">{{ link.name }}</a></li>
+      {% else %}
+        <li><a class="inactive" href="{{ link.url | prepend: site.baseurl }}">{{ link.name }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  <hr />
+</div>

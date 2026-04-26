@@ -1,0 +1,30 @@
+title: Theodore Weisman
+baseurl: ""          # Subpath of the site, e.g. /blog — leave empty if serving from root
+url: ""              # Full base hostname, e.g. https://example.com
+
+# Navbar links — rendered in order; url should match the page's permalink
+navbar_links:
+  - name: Home
+    url: /
+  - name: Research
+    url: /research
+  - name: Teaching
+    url: /teaching
+  - name: CV
+    url: /CV
+  - name: Etc.
+    url: /etc
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Files/dirs Jekyll should not process
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules/
+
+plugins:
+  - jekyll-redirect-from

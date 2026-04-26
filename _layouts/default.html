@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base href="{{ site.baseurl }}/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Core stylesheets (mirrors the two <link> tags in base.html) -->
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/css/stylesheet.css' | prepend: site.baseurl }}" />
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/css/extra.css'      | prepend: site.baseurl }}" />
+
+  <!-- Per-page extra stylesheets — set `stylesheets:` list in front matter -->
+  {% if page.stylesheets %}
+    {% for stylesheet in page.stylesheets %}
+      <link rel="stylesheet" type="text/css" href="{{ stylesheet | prepend: site.baseurl }}" />
+    {% endfor %}
+  {% endif %}
+
+  <!-- Page title: "Site Title | Page Title" or just "Site Title" -->
+  {% if page.title %}
+    <title>{{ site.title }} | {{ page.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
+
+  <!-- Third-party scripts (same CDN URLs as original) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- Per-page extra scripts — set `scripts:` list in front matter -->
+  {% if page.scripts %}
+    {% for script in page.scripts %}
+      <script src="{{ script | prepend: site.baseurl }}"></script>
+    {% endfor %}
+  {% endif %}
+
+  <script src="{{ '/assets/js/elt-dodge.js' | prepend: site.baseurl }}"></script>
+</head>
+<body>
+  <div id="pagebody">
+    <div id="topbar">
+      <div id="header">
+        <div id="name">
+          <a href="{{ '/' | prepend: site.baseurl }}">Theodore Weisman</a>
+        </div>
+        <div id="contact">
+          <a href="{{ '/#contact' | prepend: site.baseurl }}">Contact</a>
+        </div>
+      </div>
+
+      {% assign navbar_file = page.navbar_include | default: 'navbar.html' %}
+      {% include {{ navbar_file }} %}
+
+    </div><!-- /#topbar -->
+
+    <div id="content">
+      {{ content }}
+    </div><!-- /#content -->
+
+  </div><!-- /#pagebody -->
+</body>
+</html>
