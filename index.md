@@ -40,7 +40,7 @@ Email: [tjwei@umich.edu](mailto:tjwei@umich.edu)
 *************************************
 
 
-If you are interested in drawing nice pictures of the hyperbolic plane and projective space, check out my [geometry_tools](geometry_tools) Python package!
+If you are interested in drawing nice pictures of the hyperbolic plane and projective space, check out my [geometry_tools](geometrytools) Python package!
 
 *************************************
 

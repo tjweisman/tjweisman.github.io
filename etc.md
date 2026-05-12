@@ -27,7 +27,7 @@ Back in 2017 I wrote some [articles](frisbee) for the team on basic frisbee stra
 
 Sometimes I also work on small programming projects. You can see a few of them on [my GitHub](https://github.com/tjweisman/).
 
- - [Geometry Tools](geometry_tools)
+ - [Geometry Tools](geometrytools)
 
  - [Dixit](dixit/) (note - this is currently defunct.)
 
