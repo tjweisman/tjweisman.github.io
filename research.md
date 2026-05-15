@@ -14,13 +14,13 @@ The main theme of my research is the interaction between geometric structures on
 
 ## Published and accepted articles
 
-1. *An extended definition of Anosov representation for relatively hyperbolic groups*. To appear in *Journal of Topology*.
+1. *An extended definition of Anosov representation for relatively hyperbolic groups*. J. Topol., 19: e70070, 2026.
 
-	[download](papers/extended_relative_anosov.pdf) \| [arXiv](https://arxiv.org/abs/2205.07183)
+	[journal](https://doi.org/10.1112/topo.70070) \| [download](papers/extended_relative_anosov.pdf) \| [arXiv](https://arxiv.org/abs/2205.07183)
 
-2. (with A. Guilloux) *Limits of limit sets in rank-one symmetric spaces*, 2024. To appear in *Geometriae Dedicata*.
+2. (with A. Guilloux) *Limits of limit sets in rank-one symmetric spaces*. Geom Dedicata 220, 14 (2026).
 
-	[download](papers/rank1_limit.pdf) \| [arXiv](https://arxiv.org/abs/2407.04301)
+	[journal](https://doi.org/10.1007/s10711-026-01068-z) \| [download](papers/rank1_limit.pdf) \| [arXiv](https://arxiv.org/abs/2407.04301)
 
 2. (with K. Tsouvalas) *Singular value gap estimates for free products of semigroups*, 2024. To appear in *Groups, Geometry, and Dynamics*.
 
