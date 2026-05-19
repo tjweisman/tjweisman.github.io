@@ -22,9 +22,9 @@ About me
 
 I'm Teddy, an NSF Postdoctoral Fellow in mathematics at the University of Michigan. Currently my research interests are in geometric structures on manifolds, discrete subgroups of Lie groups, and geometric group theory. My postdoctoral mentor at Michigan is [Ralf Spatzier](https://dept.math.lsa.umich.edu/~spatzier/).
 
-Previously, I spent a year as a postdoc at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany, working in the research group of [Anna Wienhard](https://www.mathi.uni-heidelberg.de/~wienhard/). I completed my PhD in 2022 at the University of Texas at Austin, where my advisor was [Jeff Danciger](https://web.ma.utexas.edu/users/jdanciger/index.html).
+I completed my PhD in 2022 at the University of Texas at Austin, where my advisor was [Jeff Danciger](https://web.ma.utexas.edu/users/jdanciger/index.html).
 
-From March 4 to April 30, 2026, I am a visiting Research Member at the SLMath semester on [Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/programs/365).
+I will moving to the University of Virginia for a postdoctoral position in Fall 2026.
 
 </div>
 
