@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Theodore Weisman
 
 # nav_url: /          ← uncomment if Jekyll's page.url doesn't match the navbar entry exactly
 # stylesheets:        ← list any page-specific CSS files here
