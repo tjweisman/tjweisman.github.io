@@ -38,7 +38,7 @@ The main theme of my research is the interaction between geometric structures on
 
 	[journal](https://www.sciencedirect.com/science/article/pii/S0001870825003287) \| [download](papers/morse_properties.pdf) \| [arXiv](https://arxiv.org/abs/2405.03269)
 
-5. (with A. Traaseth) *Combination theorems for geometrically finite convergence groups.*  To appear in *Algebraic and Geometric Topology*.
+5. (with A. Traaseth) *Combination theorems for geometrically finite convergence groups*.    To appear in *Algebraic and Geometric Topology*.
 
 	[download](papers/combination_convergence.pdf) \| [arXiv](https://arxiv.org/abs/2305.08011)
 
@@ -52,11 +52,15 @@ The main theme of my research is the interaction between geometric structures on
 
 ## Preprints
 
-1. *Dehn filling in semisimple Lie groups*. arXiv: 2502.17592, 2025. Submitted.
+1. *Stability for boundary actions of cocompact lattices in Euclidean buildings*. arXiv: 2607.14668, 2026. 
+
+	[download](papers/building_stability/pdf) \| [arXiv](https://arxiv.org/abs/2607.14668)
+
+2. *Dehn filling in semisimple Lie groups*. arXiv: 2502.17592, 2025. Submitted.
 
 	[download](papers/dehn_filling_egf.pdf) \| [arXiv](https://arxiv.org/abs/2502.17592)
 
-5. *Examples of extended geometrically finite representations.* arXiv:2311.18653, 2023.
+3. *Examples of extended geometrically finite representations.* arXiv:2311.18653, 2023.
 
 	[download](papers/egf_examples.pdf) \| [arXiv](https://arxiv.org/abs/2311.18653)
 
