@@ -19,11 +19,9 @@ layout: default
 About me
 ===========
 
-I'm Teddy, an NSF Postdoctoral Fellow in mathematics at the University of Michigan. Currently my research interests are in geometric structures on manifolds, discrete subgroups of Lie groups, and geometric group theory. My postdoctoral mentor at Michigan is [Ralf Spatzier](https://dept.math.lsa.umich.edu/~spatzier/).
+I'm Teddy, a mathematics postdoc at the University of Virginia. Currently my research interests are in geometric structures on manifolds, discrete subgroups of Lie groups, and geometric group theory.
 
-I completed my PhD in 2022 at the University of Texas at Austin, where my advisor was [Jeff Danciger](https://web.ma.utexas.edu/users/jdanciger/index.html).
-
-I will moving to the University of Virginia for a postdoctoral position in Fall 2026.
+I completed my PhD in 2022 at the University of Texas at Austin, where my advisor was [Jeff Danciger](https://web.ma.utexas.edu/users/jdanciger/index.html). 
 
 </div>
 
@@ -34,7 +32,7 @@ I will moving to the University of Virginia for a postdoctoral position in Fall 
 
 Pronouns: he/him
 
-Email: [tjwei@umich.edu](mailto:tjwei@umich.edu)
+Email: [tjweisman@virginia.edu](mailto:tjweisman@virginia.edu)
 
 *************************************
 
