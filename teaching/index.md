@@ -8,9 +8,15 @@ redirect_from: teaching.html
 Teaching
 ===================
 
-## Current (Spring 2026)
+## Current (Fall 2026)
 
-I am not teaching this semester.
+This semester I am teaching MATH 2310 (Calculus III) at the University of Virginia. Course information is shared on Canvas.
+
+## Undergraduate research
+
+I am interested in mentoring undergraduate students on computational and theoretical math research projects! If you are an undergraduate student with a strong interest in geometry and computer visualization, please feel free to reach out so we can discuss possible projects.
+
+**Prerequisites:** at a bare minimum, I will require research students to be very comfortable with linear algebra, and to have taken at least one proof-based mathematics course. A course in abstract algebra is recommended.
 
 ***********************
 

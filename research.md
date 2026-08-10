@@ -52,7 +52,7 @@ The main theme of my research is the interaction between geometric structures on
 
 ## Preprints
 
-1. *Stability for boundary actions of cocompact lattices in Euclidean buildings*. arXiv: 2607.14668, 2026. 
+1. (with T. Nguyen) *Stability for boundary actions of cocompact lattices in Euclidean buildings*. arXiv: 2607.14668, 2026. 
 
 	[download](papers/building_stability/pdf) \| [arXiv](https://arxiv.org/abs/2607.14668)
 
