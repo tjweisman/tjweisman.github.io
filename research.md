@@ -9,6 +9,8 @@ Research
 
 The main theme of my research is the interaction between geometric structures on manifolds, geometric group theory, and discrete subgroups of Lie groups. Mostly, this means that I work with actions of groups with rich coarse geometry (such as hyperbolic and relatively hyperbolic groups) on homogeneous spaces (like symmetric spaces, or projective space and other flag manifolds). Important examples include convex cocompact and geometrically finite subgroups of SL(2, R) and SL(2, C), as well as higher-rank analogs, such as Anosov subgroups and their generalizations.
 
+Here is a [research statement](resources/research_statement.pdf) from October 2026.
+
 <img src="resources/quasifuchsian.png" alt="A quasifuchsian representation in H^3" width=210px />
 <div class="caption">The limit set of a convex cocompact representation in hyperbolic space (specifically, a quasifuchsian representation produced by bending). See an <a href="resources/bending2.gif">animated version</a>.</div>
 
@@ -54,7 +56,7 @@ The main theme of my research is the interaction between geometric structures on
 
 1. (with T. Nguyen) *Stability for boundary actions of cocompact lattices in Euclidean buildings*. arXiv: 2607.14668, 2026. 
 
-	[download](papers/building_stability/pdf) \| [arXiv](https://arxiv.org/abs/2607.14668)
+	[download](papers/building_stability.pdf) \| [arXiv](https://arxiv.org/abs/2607.14668)
 
 2. *Dehn filling in semisimple Lie groups*. arXiv: 2502.17592, 2025. Submitted.
 
