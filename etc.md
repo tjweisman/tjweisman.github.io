@@ -8,7 +8,7 @@ redirect_from: etc.html
 
 --------------------------------------------------------------------
 
-I spend a lot of time playing ultimate frisbee. Most recently I played with Mischief, a men's club team based in Canton, MI (not to be confused with the Bay Area mixed team of the same name). In past years I have played with the Saxy Divers (Leipzig, Germany) Pixel (Detroit, MI), Moontower (Austin, TX), TUFF (the University of Texas men's team) and Süperfly (the Yale University men's team, not to be confused with the similarly-named Stanford Univeristy women's team).
+I spend a lot of time playing ultimate frisbee. Most recently I played with Mischief, a men's club team based in Canton, MI (not to be confused with the Bay Area mixed team of the same name). In past years I have played with the Saxy Divers (Leipzig, Germany) Pixel (Detroit, MI), Moontower (Austin, TX), TUFF (the University of Texas men's team) and Süperfly (the Yale University men's team, not to be confused with the similarly-named Stanford University women's team).
 
 <div class="image-container">
 <div class="img-cell"><img src="resources/fly_logo.png" alt="Superfly logo" /></div>
